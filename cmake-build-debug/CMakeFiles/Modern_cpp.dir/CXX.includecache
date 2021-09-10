@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Rectangle.h
+Shape.h
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Shape.h
+
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Shape.h
+iostream
+-
+
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Square.h
+Shape.h
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Shape.h
+
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/main.cpp
+iostream
+-
+vector
+-
+headers/Shape.h
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Shape.h
+headers/Square.h
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Square.h
+headers/Rectangle.h
+/Users/yannickfumukani/SPrivate/sdev/c++/Modern_cpp/headers/Rectangle.h
+
